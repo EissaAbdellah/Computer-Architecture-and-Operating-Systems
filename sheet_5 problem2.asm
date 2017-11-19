@@ -9,7 +9,7 @@ INCLUDE io.h
 	mul_n DWORD 2
 	sumn1n2 DWORD ?
 	sumtion DWORD ?
-	num DWORD 2
+	num DWORD 2 
 	prompt1 BYTE "ENTER X",0
 	prompt2 BYTE "ENTER y",0
 	prompt3 BYTE "ENTER z",0
